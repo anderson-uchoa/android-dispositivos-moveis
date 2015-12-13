@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BoundSevice - Calculadora</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnSoma">Somar</string>
+    <string name="text_soma">Somar</string>
+    <string name="text_subtrair">Subtrair</string>
+    <string name="text_multiplicacao">Multiplicar</string>
+    <string name="text_divisao">Dividir</string>
+    <string name="text_resultado">Resultado</string>
+</resources>
