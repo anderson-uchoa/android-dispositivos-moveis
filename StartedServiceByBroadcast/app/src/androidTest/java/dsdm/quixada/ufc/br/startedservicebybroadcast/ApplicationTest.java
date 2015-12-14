@@ -1,4 +1,4 @@
-package dsdm.quixada.ufc.br.startedsevicebybroadcast;
+package dsdm.quixada.ufc.br.startedservicebybroadcast;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

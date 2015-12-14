@@ -1,4 +1,4 @@
-package quixada.ufc.br.boundsevice;
+package quixada.ufc.br.boundservice;
 
 import org.junit.Test;
 

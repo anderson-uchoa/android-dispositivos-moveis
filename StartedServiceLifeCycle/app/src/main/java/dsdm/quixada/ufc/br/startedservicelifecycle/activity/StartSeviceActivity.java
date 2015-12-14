@@ -1,21 +1,16 @@
-package dsdm.quixada.ufc.br.startedsevicelifecycle.activity;
+package dsdm.quixada.ufc.br.startedservicelifecycle.activity;
 
 import android.content.Intent;
-import android.nfc.Tag;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.View;
 import android.view.Menu;
-import android.view.MenuItem;
 import android.widget.Button;
-import android.widget.Toast;
 
-import dsdm.quixada.ufc.br.startedsevicelifecycle.R;
-import dsdm.quixada.ufc.br.startedsevicelifecycle.services.MyService;
+import dsdm.quixada.ufc.br.startedservicelifecycle.R;
+import dsdm.quixada.ufc.br.startedservicelifecycle.services.MyService;
 
 public class StartSeviceActivity extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package dsdm.quixada.ufc.br.startedsevicebybroadcast;
+package dsdm.quixada.ufc.br.startedservicebybroadcast;
 
 import org.junit.Test;
 

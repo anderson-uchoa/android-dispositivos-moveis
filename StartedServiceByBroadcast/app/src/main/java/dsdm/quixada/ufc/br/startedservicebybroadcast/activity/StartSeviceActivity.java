@@ -1,4 +1,4 @@
-package dsdm.quixada.ufc.br.startedsevicebybroadcast.activity;
+package dsdm.quixada.ufc.br.startedservicebybroadcast.activity;
 
 import android.content.BroadcastReceiver;
 import android.content.Intent;
@@ -10,9 +10,9 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 
-import dsdm.quixada.ufc.br.startedsevicebybroadcast.R;
-import dsdm.quixada.ufc.br.startedsevicebybroadcast.service.MyService;
-import dsdm.quixada.ufc.br.startedsevicebybroadcast.broadCastReceiver.ReceiverStartService;
+import dsdm.quixada.ufc.br.startedservicebybroadcast.R;
+import dsdm.quixada.ufc.br.startedservicebybroadcast.service.MyService;
+import dsdm.quixada.ufc.br.startedservicebybroadcast.broadCastReceiver.ReceiverStartService;
 
 /**
  * Created by andersonuchoa on 13/12/15.

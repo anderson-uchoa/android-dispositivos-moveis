@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/StartedSeviceByBroadcast.iml" filepath="$PROJECT_DIR$/StartedSeviceByBroadcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StartedServiceByBroadcast.iml" filepath="$PROJECT_DIR$/StartedServiceByBroadcast.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

@@ -1,4 +1,4 @@
-package quixada.ufc.br.boundsevice.service;
+package quixada.ufc.br.boundservice.service;
 
 import android.app.Service;
 import android.content.Intent;

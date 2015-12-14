@@ -1,4 +1,4 @@
-package quixada.ufc.br.boundsevice.activity;
+package quixada.ufc.br.boundservice.activity;
 
 import android.content.ComponentName;
 import android.content.Context;
@@ -16,8 +16,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import quixada.ufc.br.boundsevice.R;
-import quixada.ufc.br.boundsevice.service.CalculadoraService;
+import quixada.ufc.br.boundservice.R;
+import quixada.ufc.br.boundservice.service.CalculadoraService;
 
 /**
  * Created by andersonuchoa on 13/12/15.

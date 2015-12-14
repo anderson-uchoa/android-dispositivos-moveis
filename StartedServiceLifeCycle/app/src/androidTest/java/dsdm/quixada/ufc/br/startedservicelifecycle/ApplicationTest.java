@@ -1,4 +1,4 @@
-package dsdm.quixada.ufc.br.startedsevicelifecycle;
+package dsdm.quixada.ufc.br.startedservicelifecycle;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

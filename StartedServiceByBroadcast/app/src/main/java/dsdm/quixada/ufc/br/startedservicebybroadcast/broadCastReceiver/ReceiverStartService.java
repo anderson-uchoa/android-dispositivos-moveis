@@ -1,11 +1,11 @@
-package dsdm.quixada.ufc.br.startedsevicebybroadcast.broadCastReceiver;
+package dsdm.quixada.ufc.br.startedservicebybroadcast.broadCastReceiver;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.util.Log;
 
-import dsdm.quixada.ufc.br.startedsevicebybroadcast.service.MyService;
+import dsdm.quixada.ufc.br.startedservicebybroadcast.service.MyService;
 
 /**
  * Created by andersonuchoa on 13/12/15.
